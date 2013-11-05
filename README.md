@@ -127,7 +127,4 @@ If we want to construct queries based on a bit value or field:
 ```
 ## License
 
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Release under the MIT license. See LICENSE for the full license.
