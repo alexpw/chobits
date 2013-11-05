@@ -10,6 +10,8 @@ Can this concern be alleviated with the right abstraction?  We'll see.
 
 ## Usage
 
+(via clojars): [chobits "0.1.0"]
+
 The tests and code docs will show you the flexibility of method arguments.
 
 Ideally, the only time you work at the bit level is when defining the properties, once.  Then, you work with a field and properties.
